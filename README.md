@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there, welcome to my github page 👋
 
-<!--
-**KyalSinLinLett/KyalSinLinLett** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 I’m currently exploring deep learning with pytorch(*as of dec,2020*)
+- ⚡ Fun fact: i don't know anything about hacking. i just love the mr.robot series.
 
-Here are some ideas to get you started:
+### My main focus areas
+- Full stack development
+- Deep learning (*w/ pytorch mostly*)
+- Quick maffs (*Discrete structures, Calculus*)
+- Network engineering (*I'll set up your home wifi for free, jk*)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://thumbs.gfycat.com/AdorableEagerDiamondbackrattlesnake-size_restricted.gif" alt="Insert gif here" width=20%>
+
+- 📫 How to reach me: alexsin0012@gmail.com
