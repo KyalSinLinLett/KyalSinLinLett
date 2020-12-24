@@ -9,4 +9,4 @@
 - Quick maffs (*Discrete structures, Calculus*)
 - Network engineering (*I'll set up your home wifi for free, jk*)
 
-<img src="https://thumbs.gfycat.com/AdorableEagerDiamondbackrattlesnake-size_restricted.gif" alt="Insert gif here" width=20%>
+<img src="https://media1.tenor.com/images/f7b5d21dd9c311cd72c9a57ca3b0eaa5/tenor.gif" alt="Insert gif here" width=30%>
