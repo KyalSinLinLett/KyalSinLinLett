@@ -4,7 +4,7 @@
 - ⚡ Random fact: i don't know anything about hacking. i just love the mr.robot series.
 
 ### My main focus areas
-- Full stack development
+- Full stack development (*Laravel + Vue*)
 - Deep learning (*w/ pytorch mostly*)
 - Quick maffs (*Discrete structures, Calculus*)
 - Network engineering (*I'll set up your home wifi for free, jk*)
