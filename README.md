@@ -6,7 +6,7 @@
 ### My main focus areas
 - Full stack development (*Laravel + Vue*)
 - Deep learning (*w/ pytorch mostly*)
-- Computer Vision (*Stilling learning*)
+- Computer Vision (*Still learning*)
 - Quick maffs (*Discrete structures, Calculus*)
 - Network engineering (*I'll set up your home wifi for free, jk*)
 
