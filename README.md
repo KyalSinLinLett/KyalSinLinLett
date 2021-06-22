@@ -4,7 +4,7 @@
 - ⚡ Random fact: I still don't know how to center a div.
 
 ### My main focus areas
-- Full stack development (*Laravel + Vue*)
+- Full stack development
 - Deep learning (*w/ pytorch mostly*)
 - Computer Vision (*Still learning*)
 - Quick maffs (*Discrete structures, Calculus*)
