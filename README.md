@@ -1,6 +1,6 @@
 ### Hi there, welcome to my github page 👋
 
-- 🌱 I’m currently working with Elixir and Phoenix Framework(*as of dec,2020*)
+- 🌱 I’m currently working with Elixir and Phoenix Framework(*as of Apr,2021*)
 - ⚡ Random fact: I still don't know how to center a div.
 
 ### My main focus areas
