@@ -5,7 +5,7 @@
 
 ### My main focus areas
 - Full stack development(*Vue, Ionic, Nodejs, Phoenix, Laravel, Postgres, MySQL, Mongodb*)
-- Network engineering (*CCNA*)
+- Network engineering (*Adv. Dip in Computing: Networking, SQA*)
 
 ### Personal Interests
 - Mathematics(*Discrete Structures, Abstract Algebra, Calculus*)
