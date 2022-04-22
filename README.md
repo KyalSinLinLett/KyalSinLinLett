@@ -9,4 +9,4 @@
 ### Personal Interests
 - Mathematics(*Discrete Structures, Abstract Algebra, Calculus*)
 - Computer Vision with Python
-- Hobbyist electronics (*ESP32 μC*)
+- Real-time web technologies
