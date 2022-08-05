@@ -1,12 +1,3 @@
 ### Hi there, welcome to my github page 👋
 
-- 🌱 I’m currently working remotely.
-- ⚡ Random fact: I still don't know how to center a div.
-
-### My main focus areas
-- Back-end Engineering
-
-### Personal Interests
-- Mathematics(*Discrete Structures, Abstract Algebra, Calculus*)
-- Computer Vision with Python
-- Real-time web technologies
+I am a Software Engineer with focus on Elixir and JavaScript ecosystems. Check out my repos, they are mainly for me to refer back in the future or showcase the proof-of-concept projects on topics or technologies that I find interesting.
